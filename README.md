@@ -5,8 +5,8 @@ In 2023 to improve my skills as a data scientist I undertook the following proje
 
 ## Content
 - Writing a data science blog: An intorductory data science project focused on analysing AirBnb data
-- Creating a disaster report pipeline: In this project I will analyze disaster data from Appen to build a model for an API that classifies disaster messages
-- Creating a recommendation engine: I create a system to recommend user using Rank Based and User-User Based Collaborative Filtering methods
+- Creating a disaster report pipeline: In this project I analyze disaster data from Appen to build a model for an API that classifies disaster messages
+- Creating a recommendation engine: In this project I create a system to recommend users articles using Rank Based and User-User Based Collaborative Filtering methods
 - A starbucks capstone project: Using a multiple skills to analyse customer data
 
 - ## Outcome
