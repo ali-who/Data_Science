@@ -1,0 +1,12 @@
+[submodule "Data_Science_Writing_A_Data_Science_Blog"]
+	path = Data_Science_Writing_A_Data_Science_Blog
+	url = https://github.com/ali-who/Data_Science_Writing_A_Data_Science_Blog.git
+[submodule "Data_Science_Recommendation_Engines"]
+	path = Data_Science_Recommendation_Engines
+	url = https://github.com/ali-who/Data_Science_Recommendation_Engines.git
+[submodule "Data_Science_Starbucks_Project"]
+	path = Data_Science_Starbucks_Project
+	url = https://github.com/ali-who/Data_Science_Starbucks_Project.git
+[submodule "Data_Science_Disaster_Report_Pipeline"]
+	path = Data_Science_Disaster_Report_Pipeline
+	url = https://github.com/ali-who/Data_Science_Disaster_Report_Pipeline.git
